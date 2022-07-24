@@ -3,6 +3,9 @@
 
 # httpc
 High performance http server, written to handle over 10K clients at a time.
+This is a compliant HTTP/1.0 server.
+It supports basic caching by date.
+Only the GET verb has been implemented.
 
 # Usage
 Simply run
